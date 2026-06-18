@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Mujahid Hussain 👋
 
-<!--
-**mujahidhussain-wp/mujahidhussain-wp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## WordPress Developer | Elementor Expert | SEO Specialist
 
-Here are some ideas to get you started:
+I build fast, secure, and SEO-friendly WordPress websites for local businesses, service providers, and content-based brands.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Do
+
+- 🎨 Custom WordPress Website Design & Development
+- 🧩 Elementor Pro — Pixel-perfect, responsive layouts
+- 🛒 WooCommerce Store Setup & Customization
+- ⚡ WordPress Speed & Performance Optimization
+- 🔒 WordPress Security Hardening & Malware Removal
+- 🔄 WordPress Migration — Zero downtime, zero data loss
+- 🐛 WordPress Bug Fixing & Troubleshooting
+- 🔍 WordPress SEO Setup (Rank Math / Yoast)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**CMS & Builders:**
+WordPress | Elementor Pro | WooCommerce | Divi | Gutenberg
+
+**Languages:**
+HTML5 | CSS3 | JavaScript | PHP
+
+**SEO & Performance:**
+Rank Math | Yoast SEO | WP Rocket | Wordfence | Google Search Console | GA4
+
+**Other Tools:**
+Ahrefs | SEMrush | Screaming Frog | Local Falcon | BrightLocal
+
+---
+
+### 📊 Experience
+
+- 5+ years of hands-on WordPress development
+- 50+ WordPress websites delivered
+- Specialized in Local SEO + WordPress combined solutions
+- Worked with clients across US, UK, and Canada
+
+---
+
+### 📫 Let's Connect
+
+- 💼 Upwork: [Your Upwork Profile Link]
+- 🌐 Fiverr: [Your Fiverr Profile Link]
+- 💻 LinkedIn: [Your LinkedIn Profile Link]
+- 📧 Email: [Your Email]
+
+---
+
+⭐️ Open to freelance WordPress projects and remote opportunities
