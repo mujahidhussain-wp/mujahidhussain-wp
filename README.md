@@ -37,7 +37,7 @@ Ahrefs | SEMrush | Screaming Frog | Local Falcon | BrightLocal
 
 ### 📊 Experience
 
-- 5+ years of hands-on WordPress development
+- 2+ years of hands-on WordPress development
 - 50+ WordPress websites delivered
 - Specialized in Local SEO + WordPress combined solutions
 - Worked with clients across US, UK, and Canada
@@ -46,10 +46,10 @@ Ahrefs | SEMrush | Screaming Frog | Local Falcon | BrightLocal
 
 ### 📫 Let's Connect
 
-- 💼 Upwork: [Your Upwork Profile Link]
-- 🌐 Fiverr: [Your Fiverr Profile Link]
-- 💻 LinkedIn: [Your LinkedIn Profile Link]
-- 📧 Email: [Your Email]
+- 💼 Upwork: https://www.upwork.com/freelancers/~0151660d9db96b70b9?mp_source=share
+- 🌐 Fiverr: https://www.fiverr.com/users/mujahid_hussein/
+- 💻 LinkedIn:https://www.linkedin.com/in/mujahid-hussainseo
+- 📧 Email: mujahid.lak@gmail.com
 
 ---
 
